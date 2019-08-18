@@ -17,8 +17,8 @@ favicon: favicon.ico
 
 repository: tongtong0/tongtong0.github.io
 github_url: https://github.com/tongtong0
-url: http://tongtong0.github.io
-enforce_ssl: tongtong0.github.io
+url: http://www.judahton.com
+enforce_ssl: judahton.com
 
 ## Gem
 plugins:
